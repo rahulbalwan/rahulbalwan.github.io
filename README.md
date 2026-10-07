@@ -25,10 +25,6 @@ https://rahulbalwan.github.io/
 - `Rahul_CV.pdf`
 - `.nojekyll`
 
-## GitHub Pages
-
-This repository is intended to be published from the `main` branch and repository root using GitHub Pages.
-
 ## Planned additions
 
 - dedicated project pages
